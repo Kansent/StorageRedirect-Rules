@@ -1,0 +1,24 @@
+{
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".turing.dat",
+    ".turingdebug",
+    "com.tencent.mobileqq",
+    "mfcache",
+    "qqstory",
+    "qsvf",
+    "tencent"
+  ],
+  "package": "com.tencent.mobileqq",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_name": "8.2.11",
+    "timestamp": 1690727848,
+    "version_code": 1380
+  }
+}
