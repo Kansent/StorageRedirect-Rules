@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".turing.dat",
+    "DCIM/.tmfs",
+    "Tencent"
+  ],
+  "package": "com.qzone",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "version_name": "8.8.1.266",
+    "timestamp": 1690726470,
+    "version_code": 137
+  }
+}
