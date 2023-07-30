@@ -1,0 +1,16 @@
+{
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "package": "net.oneplus.weather",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_name": "2.7.1.201218142113.ee0b2c4",
+    "timestamp": 1690729438,
+    "version_code": 20710
+  }
+}
